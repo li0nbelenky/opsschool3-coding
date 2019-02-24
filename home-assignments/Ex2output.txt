@@ -1,0 +1,13 @@
+The weather in Kfar saba is 290.02
+
+
+The weather in Madrid , ES is 280.94 degrees.
+The weather in Colombo , LK is 304.15 degrees.
+The weather in Edinburgh , GB is 275.15 degrees.
+The weather in Moscow , RU is 271.15 degrees.
+The weather in Sofia , BG is 268.15 degrees.
+The weather in Eilat , JO is 289.05 degrees.
+The weather in Belfast , GB is 279.63 degrees.
+The weather in Dublin , IE is 277.87 degrees.
+The weather in Bogota , CO is 285.15 degrees.
+The weather in Paris , FR is 278.65 degrees.
